@@ -1,0 +1,9 @@
+file_format: "1"
+id: customkeeb
+name: CustomKeeb
+type: shield
+url: https://github.com/Seaotatop/zmk-config
+requires:
+  - nice_nano_v2
+features:
+  - keys
